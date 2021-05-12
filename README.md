@@ -1,5 +1,5 @@
 # Python Viope Course
-Exercises of introduction to Python programming via Viope online course. This course was part of my first year studies at Metropolia UAS, Bachelor of Engineering.
+Exercises of introduction to Python programming via Viope online course, covering the basics of the Python programming language. This course was part of my first year studies (optional studies) at Metropolia UAS, Bachelor of Engineering.
 
 The course material and exercises are in Finnish.
 
